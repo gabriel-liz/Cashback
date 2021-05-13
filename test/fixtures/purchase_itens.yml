@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number_tickets: 1
+  ticket_value: one
+  cashback: one
+
+two:
+  number_tickets: 1
+  ticket_value: two
+  cashback: two
